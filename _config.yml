@@ -1,9 +1,9 @@
 # Site settings
-name: EBI Jekyll Boilerplate
-group: EMBL-EBI Web Development
+name: MIAPPE
+group: Minimum Information about A Plant Phenotyping Experiment
 email: noreply@ebi.ac.uk
-domain: //ebiwd.github.io
-baseurl: /EBI-Boilerplate-Jekyll
+domain: //pkersey.github.io
+baseurl: /miappe
 permalink: /updates/:year/:month/:day/:title
 
 # Build settings
