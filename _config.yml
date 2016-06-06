@@ -1,0 +1,10 @@
+# Site settings
+name: EBI Jekyll Boilerplate
+group: EMBL-EBI Web Development
+email: noreply@ebi.ac.uk
+domain: //ebiwd.github.io
+baseurl: /EBI-Boilerplate-Jekyll
+permalink: /updates/:year/:month/:day/:title
+
+# Build settings
+markdown: kramdown
