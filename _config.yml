@@ -4,7 +4,7 @@ group: Minimum Information about A Plant Phenotyping Experiment
 email: noreply@ebi.ac.uk
 domain: //pkersey.github.io
 baseurl: /miappe
-permalink: /updates/:year/:month/:day/:title
+permalink: pretty
 
 # Build settings
 markdown: kramdown
