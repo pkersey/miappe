@@ -1,17 +1,17 @@
-# EBI-Boilerplate-Jekyll
-Get up and running with EBI-themed Jekyll fast (rolled with gh-pages in mind, clone/fork suggested)
+# About
+An implementation of the [EBI-Boilerplate-Jekyll] (https://github.com/ebiwd/EBI-Boilerplate-Jekyll) 
 
-<a href="http://ebiwd.github.io/EBI-Boilerplate-Jekyll">View the demo</a>
+## How to add and edit content
+To modify content, just edit the .html files at the root — note that they’re in the special jekyll format: https://github.com/pkersey/miappe/tree/gh-pages
 
-## How to use this
-This Jekyll template was designed in mind with GitHub pages, you'll certainly be able to use it to start a traditional Jekyll project, but the information below is specifically tailored with GitHub in mind.
+The ones to note are:
+- index.html
+- developers.html
+- projects.html
 
-1. Getting started
-Clone this repo
+Couple more notes:
+- To add a new page, just clone one of the above and edit as appropriate. 
+- If you don’t want a page in the menu tabs, remove the bit: group: "in_local_navigation”
+- To change the page order, modify: order: 1
 
-2. Basic setup
-Edit _config.yml and set your GitHub URL and project name
-
-3. Add content
-- Create new posts in _posts
-- Create new pages by **to do**
+When you’re ready to publish to the greate web,  map your domain name to the site — these directions are a good bit more straightforward than the GitHub docs: http://www.hongkiat.com/blog/github-with-custom-domain/ 
