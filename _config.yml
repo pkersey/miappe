@@ -1,0 +1,10 @@
+# Site settings
+name: MIAPPE
+group: Minimum Information about A Plant Phenotyping Experiment
+email: noreply@ebi.ac.uk
+domain: //pkersey.github.io
+baseurl: /miappe
+permalink: pretty
+
+# Build settings
+markdown: kramdown
